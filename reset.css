@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+//para que serve o reset.css? 
+//para que todos os elementos fiquem com as mesmas propriedades,
+//sem que o navegador coloque suas próprias propriedades
